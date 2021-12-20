@@ -30,6 +30,7 @@ On this github profile, you will find some repositories in which I am trying to 
 * 📦 xtradata : a R package allowing to send request to Bordeaux Métropole Open Data APIs
 * 📦 leaflettools : a R package in which I am trying to add new functionnalities to draw leaflet maps
 * 📦 shinyYM : a R package with some additionnal features for shiny (e.g. use of the notie JS library notifications)
+* 🕸️ datalabsite : website of the Bordeaux Métropole datalab (made with Hugo and blogdown)
 
 Feel free to contact me if you have questions on these (or others) tools ! 😃
 
