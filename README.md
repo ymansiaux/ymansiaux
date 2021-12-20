@@ -19,7 +19,7 @@ Welcome to my GitHub account !
 
 I am currently working at Bordeaux Métropole, as a Data Scientist.
 
-I have a PhD in biostatics, applied to the epidemiology of H1N1 influenza. 
+I have a PhD in biostatistics, applied to the epidemiology of H1N1 influenza. 
 
 My language of choice is R, but I hope getting better at using other languages in 2022 (Javascript 🙏) as well as improving my dataviz skills.
 
