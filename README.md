@@ -21,8 +21,11 @@ I am currently working at ThinkR, as a developer and R trainer.
 
 I have a PhD in biostatistics, applied to the epidemiology of H1N1 influenza. 
 
-My language of choice is R, but I hope getting better at using other languages in 2023 (Javascript 🙏) as well as improving my dataviz skills.
+I fell into the R world in 2008, and since then have never stopped using this language for all types of data I had to work with. Whether it is to explore genomic data, map transportation networks or model epidemiological indicators, R has always been my faithful companion.
+For a long time I focused on statistical models, but my use of R has gradually expanded, with a strong taste for data visualization and the development of Shiny applications.
 
-Feel free to contact me if you have questions on these (or others) tools ! 😃
+At ThinkR, I will be able to continue to explore the infinite fields of application of R and transmit my knowledge with enthusiasm.
+
+Feel free to contact me if you have questions ! 😃
 
 Yohann
